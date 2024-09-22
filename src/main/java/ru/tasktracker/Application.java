@@ -10,8 +10,8 @@ import ru.tasktracker.repository.TaskRepository;
 import ru.tasktracker.usecase.TaskUseCase;
 import ru.tasktracker.repository.implementations.FileSystemTaskRepository;
 import ru.tasktracker.usecase.implementation.TaskUseCaseImpl;
-import ru.tasktracker.util.LocalDateTimeTypeAdapter;
-import ru.tasktracker.util.Longs;
+import ru.tasktracker.gson.typeadapters.LocalDateTimeTypeAdapter;
+import ru.tasktracker.utils.Longs;
 
 import java.time.LocalDateTime;
 import java.util.Arrays;

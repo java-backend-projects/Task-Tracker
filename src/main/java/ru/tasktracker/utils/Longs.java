@@ -1,4 +1,4 @@
-package ru.tasktracker.util;
+package ru.tasktracker.utils;
 
 import org.jetbrains.annotations.Contract;
 import ru.tasktracker.result.Result;

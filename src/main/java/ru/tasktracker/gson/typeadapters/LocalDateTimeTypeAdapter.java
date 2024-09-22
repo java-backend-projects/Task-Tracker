@@ -1,4 +1,4 @@
-package ru.tasktracker.util;
+package ru.tasktracker.gson.typeadapters;
 
 import com.google.gson.*;
 import com.google.gson.stream.JsonReader;
