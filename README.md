@@ -14,8 +14,7 @@ This is a simple CLI (Command-Line Interface) application for managing tasks. Yo
 
 1. **Clone the repo:**
   ```bash
-  git clone https://github.com/Sug4chy/Backend-Learning-Projects
-  cd Backend-Learning-Projects/task-tracker-cli
+  git clone https://github.com/java-backend-projects/Task-Tracker
   ```
 2. **Unzip archive with .jar file and .sh script**
   ```bash
